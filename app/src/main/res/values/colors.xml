@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EAEBF3</color>
+    <color name="colorPrimaryDark">#EAEBF3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="neuomorphic">#EAEBF3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="textColor">#7C7C81</color>
+</resources>
